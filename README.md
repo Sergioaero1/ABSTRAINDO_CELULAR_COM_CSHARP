@@ -1,8 +1,8 @@
 # ABSTRAINDO_CELULAR_COM_CSHARP
 
-# DIO - Trilha .NET C# - Programação orientada a objetos
+# DIO - Trilha .NET C# - POO
 www.dio.me
-
+### [Sergioaero](https://www.linkedin.com/in/sergio-eustaquio/)
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
 
