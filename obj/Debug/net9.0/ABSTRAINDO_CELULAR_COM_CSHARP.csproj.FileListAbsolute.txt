@@ -1,0 +1,15 @@
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\bin\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.exe
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\bin\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.deps.json
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\bin\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.runtimeconfig.json
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\bin\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.dll
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\bin\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.pdb
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.sourcelink.json
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.dll
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\refint\ABSTRAINDO_CELULAR_COM_CSHARP.dll
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.pdb
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ABSTRAINDO_CELULAR_COM_CSHARP.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Documents\GitHub\ABSTRAINDO_CELULAR_COM_CSHARP\obj\Debug\net9.0\ref\ABSTRAINDO_CELULAR_COM_CSHARP.dll
